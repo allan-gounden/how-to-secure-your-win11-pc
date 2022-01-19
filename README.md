@@ -150,6 +150,10 @@ Execute following commands in the Windows PowerShell:
 
 11. Repeat steps 7., 8. and 9. for your normal user account!!!
 
+12. Optional: Encrypt your PC
+
+https://github.com/allan-gounden/how-to-encrypt-your-win11-pc-with-bitlocker/
+
 From now on always login with your normal user account!
 
 Annotations:
@@ -180,12 +184,17 @@ NEVER GIVE UP
 
 THE RESISTENCE WILL NEVER DIE. YOU ARE NOT ALONE.
 
+***
 
+***
+
+***
 
 GERMAN TRANSLATION
+
 Deutsche Anleitung:
 
-HOW TO zur Absicherung Ihre Windows 11 PC
+Anleitung zur Absicherung Ihre Windows 11 PC
 
 Anleitung zur Sicherung/Härtung eines Windows 11 PC 
 
@@ -335,6 +344,10 @@ Führen Sie folgende Befehle in der Windows PowerShell aus:
 11. Wiederholen Sie Schritt 8., 9. und 10. für Ihren normal Benutzer-Account!!!
 
 Melden Sie sich ab jetzt immer mit Ihrem normalen Benutzer-Account an.
+
+12. Optional: Verschlüsseln Sie Ihren PC
+
+https://github.com/allan-gounden/how-to-encrypt-your-win11-pc-with-bitlocker/
 
 
 Anmerkungen:
