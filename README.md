@@ -19,10 +19,10 @@ Exact naming depends on your motherboard/mainboard manufacturer
  - Disable WIFI and Bluetooth if available and not required
  - Disable "Suspend to RAM"
  - Enable "Deep Sleep"
- - Enable Secureboot; Remove none Microsoft keys from Secureboot except your own ones (If there are keys from your motherboard vendor use another motherboard!)
- - Check if voltages are in specification
+ - Enable Secureboot; Remove none Microsoft keys from Secureboot except your own ones (If there are keys from your hardware vendor use another motherboard/mainboard/laptop! Do not cheap out on your mainboard; personal recommendation: ASRock)
  - Set a password for UEFI
- - Enable power saving features (save the planet!)
+ - Optional: Enable power saving features (save the planet!)
+ - Optional: check if voltages are in specification
 
 
 WARNING: If you mess up any of the following steps START AT THE BEGINNING (This means step 0.)!!! Take your time and you only have to do it once.
@@ -158,6 +158,8 @@ From now on always login with your normal user account!
 
 Annotations:
 
+ - Personal recommendations are only personal recommendations. Nothing more!
+ 
  - DO NOT OVERCLOCK YOUR PC (AMD PBO should be safe, but not sure yet). Keep your PC in the specifications. Electrical engineers now what they are doing. Programmers of bioses often do not seem to know what they are doing or more reasonable it must be the marketing department! :)
 
  - Try to always use Microsoft Defender Application Guard and not the normal Edge-Browser! Unfortanetly it is not always possible and you can not set it as default yet :(
@@ -174,7 +176,7 @@ Annotations:
 
 Pardon me for my bad english but they brainwashed me (no joke!) and I am still recovering. (Political parties in germany [Yes all the big ones! They worked together with german billionaires because i told them the truth and knew some things they call "secrets" (criminal acts) but in my opinion everybody should now. They are incompetent, corrupt, cowards. Yes I am ANGRY 😡 ]) Had to train for a few years to recover.
 
-See my facebook account https://www.facebook.com/profile.php?id=100070019901989
+See my facebook account and posts please! https://www.facebook.com/profile.php?id=100070019901989
 
 Also try to use a Pixel 6 with GrapheneOS as a mobile device. Will try to make a guide for it in the future if they do not get me before.
 
@@ -215,10 +217,10 @@ Die exakten Bezeichnung varieren je nach Motherboard/Mainboard Hersteller
  - Deaktivieren Sie WIFI und Bluetooth sofern vorhanden und Sie dies nicht benötigen.
  - Deaktivieren Sie "Suspend to RAM"
  - Aktivieren Sie "Deep Sleep"
- - Aktivieren Sie Secureboot; Entfernen Sie alle nicht Microsoft Schlüssel außer evt. Ihre eigenen aus Secureboot (sollten sich hier Schlüssel von Ihrem Motherboard-Hersteller befinden nutzen Sie ein anderes Motherboard/Mainboard)
- - Überprüfen Sie ob die Spannungen sich innerhalb der Spezifikation befinden
+ - Aktivieren Sie Secureboot; Entfernen Sie alle nicht Microsoft Schlüssel außer evt. Ihre eigenen aus Secureboot (sollten sich hier Schlüssel von Ihrem Hardware-Hersteller befinden nutzen Sie ein anderes Motherboard/Mainboard/Laptop [Sparen Sie nicht am Mainboard. persönliche Empfehlung: ASRock])
  - Setzen Sie ein Password für UEFI
- - Aktivieren Sie Energiespar-Features (save the planet!)
+ - Optional: Aktivieren Sie Energiespar-Features (save the planet!)
+ - Optional: Überprüfen Sie ob die Spannungen sich innerhalb der Spezifikation befinden
 
 WARNUNG: Wenn Sie einen Fehler bei den folgenden Schritten machen starten Sie GANZ VON VORNE (D.h. Punkt 0.)!!! Nehmen Sie sich Zeit und befolgen Sie die Anleitung, dann müssen Sie dies nur einmal machen.
 
@@ -352,6 +354,8 @@ https://github.com/allan-gounden/how-to-encrypt-your-win11-pc-with-bitlocker/
 
 Anmerkungen:
 
+ -persönliche Empfehlungen sind nur persönliche Empfehlungen. Nicht mehr!
+ 
  - ÜBERTAKTEN SIE NICHT IHREN PC (AMD PBO sollte in Ordnung sein, bin mir aber noch nicht sicher). Halten Sie Ihren PC innerhalb der Spezifikationen. Elektrotechniker wissen was Sie tuen. Programmierer von Biosen meistens anscheinend nicht oder wahrscheinlicher: Es ist die Schuld der Marketing-Abteilung! :)
 
  - Versuchen Sie immer den Microsoft Defender Application Guard zu nutzen und nicht den normalen Edge-Browser! Leider ist dies nicht immer möglich und Sie können Ihn nicht als Standard-Browser setzen.
@@ -368,7 +372,7 @@ Anmerkungen:
 
 Man hat mich in der Vergangenheit einer Gehirnwäsche unterzogen, kein Scherz!. (Politische Parteien in Deutschland [Ja, alle großen! Sie haben sich damals mit deutschen Milliardären zusammengeschlossen weil ich Ihnen die Wahrheit erzählt habe und einige Dinge wußte welche Sie als "Geheimnisse" (kriminelle Handlungen) bezeichen, wo ich aber der Überzeugung bin dass dies alle Wissen sollten. Sie sind inkompetent, korrupt und feige. Ja ich bin wütend😡 ]) Ich muste ein paar Jahre trainieren um wieder auf die Beine zu kommen.
 
-Schaut euch bitte meinen Facebook-Account https://www.facebook.com/profile.php?id=100070019901989 an.
+Schaut euch bitte meinen Facebook-Account und Posts an. Danke! https://www.facebook.com/profile.php?id=100070019901989
 
 Versucht auch ein Pixel 6 mit GrapheneOS zu nutzen. Ich werde versuchen in Zukunft auch eine Anleitung hierfür zu erstellen sofern Sie mich nicht vorher wieder in die Finger bekommen.
 
