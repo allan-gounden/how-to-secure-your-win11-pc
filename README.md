@@ -204,7 +204,7 @@ Voraussetzungen:
 
 Windows 11 Pro
 
-Moderne Hardware (persönliche Empfehlungen: AMD Ryzen 5000 PRO [hab noch keinen, bitte nicht alle kaufen ;)], versuchen Sie eine möglichst moderne CPU zu nutzen), ECC-RAM, abgeschirmte Netzwerk-Kabel (SF/FTP), Benutzen Sie kein Gehäuse mit Plastikseitenpanelen (vollständig aus Metal!, Alternative können Sie Ihr Gehäuse in Alufolie einwickeln [mind. 10 Lagen]). Dies ist nicht optimal aber schonmal ein Anfang für ein Gehäuse. [Elektromagnetische-Abschirmung], versuchen Sie WLAN-Verbindungen zu vermeiden (oder benutzen Sie zumindest WPA3 sofern Sie WLAN nutzen möchten/müssen)
+Moderne Hardware (persönliche Empfehlungen: AMD Ryzen 5000 PRO [hab noch keinen, bitte nicht alle kaufen ;)], versuchen Sie eine möglichst moderne CPU zu nutzen), ECC-RAM, abgeschirmte Netzwerk-Kabel (SF/FTP) [Ich hab mir diese geholt: https://www.synergy21.de/kabel-verkabelung/verkabelung-kupfer/patchkabel-s-stp-sftp-cat66a78.1/540/patchkabel-rj45-cat6a-500mhz-5m-grau-s-stp-s/ftp-mit-schloss-awg26-synergy-21?c=1898; Kann man abschließen müssen wohl sicher sein \*g\*] , Benutzen Sie kein Gehäuse mit Plastikseitenpanelen (vollständig aus Metal!, Alternative können Sie Ihr Gehäuse in Alufolie einwickeln [mind. 10 Lagen]). Dies ist nicht optimal aber schonmal ein Anfang für ein Gehäuse. [Elektromagnetische-Abschirmung], versuchen Sie WLAN-Verbindungen zu vermeiden (oder benutzen Sie zumindest WPA3 sofern Sie WLAN nutzen möchten/müssen)
 
 
 UEFI Konfiguration:
