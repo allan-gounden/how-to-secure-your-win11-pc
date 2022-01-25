@@ -162,7 +162,7 @@ Annotations:
  
  - DO NOT OVERCLOCK YOUR PC (AMD PBO should be safe, but not sure yet). Keep your PC in the specifications. Electrical engineers now what they are doing. Programmers of bioses often do not seem to know what they are doing or more reasonable it must be the marketing department! :)
 
- - DO NOT INSTALL WSL2, just installed it and got hacked again (bash was open with debian as a distribution) :( "They" always target the developers. If you develop under Linux (I do not) use Gentoo and use the linux kernel with your own configuration (use the linux kernel und configure it)! There might be some other good alternatives out there (Alpine linux?).
+ - DO NOT INSTALL WSL2, installed it today and just got hacked again (bash was open with debian as a distribution) :( "They" always target the developers. If you develop under Linux (I do not) use Gentoo and use the linux kernel with your own configuration (use the linux kernel und configure it)! There might be some other good alternatives out there (Alpine linux?).
 
  - Try to always use Microsoft Defender Application Guard and not the normal Edge-Browser! Unfortanetly it is not always possible and you can not set it as default yet :(
 
@@ -360,7 +360,7 @@ Anmerkungen:
  
  - ÜBERTAKTEN SIE NICHT IHREN PC (AMD PBO sollte in Ordnung sein, bin mir aber noch nicht sicher). Halten Sie Ihren PC innerhalb der Spezifikationen. Elektrotechniker wissen was Sie tuen. Programmierer von Biosen meistens anscheinend nicht oder wahrscheinlicher: Es ist die Schuld der Marketing-Abteilung! :)
 
- - Installieren Sie NICHT WSL2, habe es gerade installiert und wurde direkt wieder gehacked (Bash war offen mit Debian als Distribution) :( "Die" haben es immer auf die Entwickler abgesehen. Sofern Sie unter Linux entwickeln (ich tue es nicht) nutzen Sie Gentoo und nutzen Sie den Linux Kernel und konfigurieren Sie diesen selbst! Es gibt bestimmt auch andere gute alternativen (Alpine linux?).
+ - Installieren Sie NICHT WSL2, habe es heute installiert und wurde gerade wieder gehacked (Bash war offen mit Debian als Distribution) :( "Die" haben es immer auf die Entwickler abgesehen. Sofern Sie unter Linux entwickeln (ich tue es nicht) nutzen Sie Gentoo und nutzen Sie den Linux Kernel und konfigurieren Sie diesen selbst! Es gibt bestimmt auch andere gute alternativen (Alpine linux?).
 
  - Versuchen Sie immer den Microsoft Defender Application Guard zu nutzen und nicht den normalen Edge-Browser! Leider ist dies nicht immer möglich und Sie können Ihn nicht als Standard-Browser setzen.
 
