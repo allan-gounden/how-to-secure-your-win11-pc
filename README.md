@@ -106,7 +106,7 @@ Scroll down
 
 <img width="960" alt="edge_flags2" src="https://user-images.githubusercontent.com/6840466/149800698-eb33a910-ad12-49e0-8ddb-2d5388c166ce.png">
 
- - Install extensions, but only the ones you realy trust (Adblocker etc. personal recommendation: Ublock origin)
+ - Install extensions, but only the ones you realy trust (NoScript! Adblocker etc. personal recommendation: Ublock origin)
 
  - Install Microsoft Defender Application Guard Companion from Windows Store and add it to your taskbar
 
@@ -303,7 +303,7 @@ Scrollen Sie runter
 
 <img width="960" alt="edge_flags2" src="https://user-images.githubusercontent.com/6840466/149800698-eb33a910-ad12-49e0-8ddb-2d5388c166ce.png">
 
- - Installieren Sie Ihre Erweiterungen, aber nur diejenigen welchen Sie wirklich vertrauen (Adblocker etc. persönliche Empfehlung: Ublock origin)
+ - Installieren Sie Ihre Erweiterungen, aber nur diejenigen welchen Sie wirklich vertrauen (NoScript! Adblocker etc. persönliche Empfehlung: Ublock origin)
 
  - Installieren Sie Microsoft Defender Application Guard Companion aus dem Windows Store und fügen Sie diesen Ihrer Startleiste hinzu.
 
