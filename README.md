@@ -161,7 +161,7 @@ Annotations:
 
  - Personal recommendations are only personal recommendations. Nothing more!
  
- - DO NOT OVERCLOCK YOUR PC (AMD PBO should be safe, but not sure yet). Keep your PC in the specifications. Electrical engineers now what they are doing. Programmers of bioses often do not seem to know what they are doing or more reasonable it must be the marketing department! :)
+ - DO NOT OVERCLOCK YOUR PC (AMD PBO should be safe. With AGESA 1.2.0.5 you can also use a higher InfinityFabric and memory clock. Do not overclock your memory any further [the memory training should now be good enough]. But do not overdo it). Keep your PC in the specifications. Electrical engineers now what they are doing. Programmers of bioses often do not seem to know what they are doing or more reasonable it must be the marketing department! :)
 
  - DO NOT INSTALL WSL2, installed it today and just got hacked again (bash was open with debian as a distribution) :( "They" always target the developers. If you develop under Linux (I do not) use Gentoo and use the original linux kernel with your own configuration not the Gentoo fork! There might be some other good alternatives out there (Alpine linux?).
 
@@ -360,7 +360,7 @@ Anmerkungen:
 
  - persönliche Empfehlungen sind nur persönliche Empfehlungen. Nicht mehr!
  
- - ÜBERTAKTEN SIE NICHT IHREN PC (AMD PBO sollte in Ordnung sein, bin mir aber noch nicht sicher). Halten Sie Ihren PC innerhalb der Spezifikationen. Elektrotechniker wissen was Sie tuen. Programmierer von Biosen meistens anscheinend nicht oder wahrscheinlicher: Es ist die Schuld der Marketing-Abteilung! :)
+ - ÜBERTAKTEN SIE NICHT IHREN PC (AMD PBO sollte in Ordnung sein, mit AGESA 1.2.0.5 können Sie auch einen höheren InfinityFabric und Memory Clock nutzen. Übertakten Sie aber nicht weiter den Arbeitsspeicher [das memory training sollte mittlerweile gut sein]. Übertreiben Sie es aber nicht). Halten Sie Ihren PC innerhalb der Spezifikationen. Elektrotechniker wissen was Sie tuen. Programmierer von Biosen meistens anscheinend nicht oder wahrscheinlicher: Es ist die Schuld der Marketing-Abteilung! :)
 
  - Installieren Sie NICHT WSL2, habe es heute installiert und wurde gerade wieder gehacked (Bash war offen mit Debian als Distribution) :( "Die" haben es immer auf die Entwickler abgesehen. Sofern Sie unter Linux entwickeln (ich tue es nicht) nutzen Sie Gentoo und nutzen Sie den original Linux Kernel und konfigurieren Sie diesen selbst, nicht den Gentoo Fork! Es gibt bestimmt auch andere gute alternativen (Alpine linux?).
 
