@@ -200,7 +200,7 @@ THE RESISTENCE WILL NEVER DIE. YOU ARE NOT ALONE.
 
 <h4 id="german">Deutsche Anleitung:</h2>
 
-<h1 id="german_title">Anleitung zur Absicherung/Härtung Ihre Windows 11 PC</h1>
+<h1 id="german_title">Anleitung zur Absicherung/Härtung Ihres Windows 11 PC</h1>
 
 <h3>Voraussetzungen:</h3>
 
