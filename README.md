@@ -20,6 +20,7 @@ Exact naming depends on your motherboard/mainboard manufacturer
  - Disable "Suspend to RAM"
  - Enable "Deep Sleep"
  - Enable Secureboot; Remove none Microsoft keys from Secureboot except your own ones (If there are keys from your hardware vendor use another motherboard/mainboard/laptop! Do not cheap out on your mainboard; personal recommendation: ASRock)
+ - Use fTPM not an external TPM module
  - Set a password for UEFI
  - Optional: Enable power saving features (save the planet!)
  - Optional: check if voltages are in specification
@@ -220,6 +221,7 @@ Die exakten Bezeichnung varieren je nach Motherboard/Mainboard Hersteller
  - Deaktivieren Sie "Suspend to RAM"
  - Aktivieren Sie "Deep Sleep"
  - Aktivieren Sie Secureboot; Entfernen Sie alle nicht Microsoft Schlüssel außer evt. Ihre eigenen aus Secureboot (sollten sich hier Schlüssel von Ihrem Hardware-Hersteller befinden nutzen Sie ein anderes Motherboard/Mainboard/Laptop [Sparen Sie nicht am Mainboard. persönliche Empfehlung: ASRock])
+ - benutzen Sie fTPM, kein externes TPM-Modul
  - Setzen Sie ein Password für UEFI
  - Optional: Aktivieren Sie Energiespar-Features (save the planet!)
  - Optional: Überprüfen Sie ob die Spannungen sich innerhalb der Spezifikation befinden
