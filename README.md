@@ -1,15 +1,16 @@
 HOW TO secure your Windows 11 PC
+(<a href="#german">Go to German Version</a>)
 
-Basic guide for securing/hardening your Windows 11 PC
+<h1 id="title">Basic guide for securing/hardening your Windows 11 PC</h1>
 
-Prerequisites:
+<h3>Prerequisites:</h3>
 
-Windows 11 Pro
+<h4>Windows 11 Pro</h4>
 
-Modern hardware (personal recommendation: AMD Ryzen 5000 PRO [still do not own one, do not buy all please ;)], try to use at least a modern CPU), ECC-RAM, shielded network/ethernet cables (SF/FTP), do no not use a case with plastic side panels (all metal!, you can also wrap your case with multiple layers of aluminum foil [10 layers at least]) [EM-Shielding]. This is not optimal but a start for a case. Try to avoid WIFI connections (at least use WPA3 if you need WIFI)
+Modern hardware (personal recommendation: AMD Ryzen 5000 PRO [still do not own one, do not buy all please ;)], try to use at least a modern CPU), ECC-RAM, shielded network/ethernet cables (SF/FTP), do no not use a case with plastic side panels (all metal! :guitar:, you can also wrap your case with multiple layers of aluminum foil [20 layers at least]) [EM-Shielding]. This is not optimal but a start for a case. Try to avoid WIFI connections (at least use WPA3 if you need WIFI)
 
 
-UEFI Configuration:
+<h4>UEFI Configuration:</h4>
 
 Exact naming depends on your motherboard/mainboard manufacturer 
 
@@ -28,7 +29,7 @@ Exact naming depends on your motherboard/mainboard manufacturer
 
 WARNING: If you mess up any of the following steps START AT THE BEGINNING (This means step 0.)!!! Take your time and you only have to do it once.
 
-Windows 11 Configuration:
+<h3>Windows 11 Configuration:</h4>
 
 0. Unplug your ethernet cable
 
@@ -107,7 +108,7 @@ Scroll down
 
 <img width="960" alt="edge_flags2" src="https://user-images.githubusercontent.com/6840466/149800698-eb33a910-ad12-49e0-8ddb-2d5388c166ce.png">
 
- - Install extensions, but only the ones you realy trust (NoScript! Adblocker etc. personal recommendation: Ublock origin)
+ - Install extensions, but only the ones you realy trust (e.g. NoScript, Ublock origin)
 
  - Install Microsoft Defender Application Guard Companion from Windows Store and add it to your taskbar
 
@@ -157,7 +158,7 @@ https://github.com/allan-gounden/how-to-encrypt-your-win11-pc-with-bitlocker/
 
 From now on always login with your normal user account!
 
-Annotations:
+<h3>Annotations:</h3>
 
  - Personal recommendations are only personal recommendations. Nothing more!
  
@@ -175,7 +176,7 @@ Annotations:
 
  - Try to use a VPN
 
- - You can do additional steps for privacy concerns (not covered in this guide). This guide should make your Windows 11 PC really hard to hack but you still will be tracked! Nothing is 100% safe. The Germans (government, industry, billionaires etc.) should not be able to hack you (except with expensive 0-days and they should get fixed fast, maybe play the honeypot \*g\*), maybe the NSA. Always install the newest updates and do not do anything illegal!
+ - You can do additional steps for privacy concerns (not covered in this guide). This guide should make your Windows 11 PC really hard to hack but you still will be tracked! Nothing is 100% safe. The Germans (government, industry, billionaires etc.) should not be able to hack you (except with expensive 0-days. They should get fixed fast and are finite. Maybe play the honeypot \*g\*), maybe the NSA. Always install the newest updates and do not do anything illegal!
 
 Pardon me for my bad english but they brainwashed me (no joke!) and I am still recovering. (Political parties in germany [Yes all the big ones! They worked together with german billionaires because i told them the truth and knew some things they call "secrets" (criminal acts) but in my opinion everybody should know. They are incompetent, corrupt, cowards. Yes I am ANGRY 😡 ]) Had to train for a few years to recover.
 
@@ -195,22 +196,20 @@ THE RESISTENCE WILL NEVER DIE. YOU ARE NOT ALONE.
 
 ***
 
-GERMAN TRANSLATION
-
-Deutsche Anleitung:
-
-Anleitung zur Absicherung Ihre Windows 11 PC
-
-Anleitung zur Sicherung/Härtung eines Windows 11 PC 
-
-Voraussetzungen:
-
-Windows 11 Pro
-
-Moderne Hardware (persönliche Empfehlungen: AMD Ryzen 5000 PRO [hab noch keinen, bitte nicht alle kaufen ;)], versuchen Sie eine möglichst moderne CPU zu nutzen), ECC-RAM, abgeschirmte Netzwerk-Kabel (SF/FTP) [Ich hab mir diese geholt: https://www.synergy21.de/kabel-verkabelung/verkabelung-kupfer/patchkabel-s-stp-sftp-cat66a78.1/540/patchkabel-rj45-cat6a-500mhz-5m-grau-s-stp-s/ftp-mit-schloss-awg26-synergy-21?c=1898; Kann man abschließen müssen wohl sicher sein \*g\*] , Benutzen Sie kein Gehäuse mit Plastikseitenpanelen (vollständig aus Metal!, Alternative können Sie Ihr Gehäuse in Alufolie einwickeln [mind. 10 Lagen]). Dies ist nicht optimal aber schonmal ein Anfang für ein Gehäuse. [Elektromagnetische-Abschirmung], versuchen Sie WLAN-Verbindungen zu vermeiden (oder benutzen Sie zumindest WPA3 sofern Sie WLAN nutzen möchten/müssen)
 
 
-UEFI Konfiguration:
+<h4 id="german">Deutsche Anleitung:</h2>
+
+<h1 id="german_title">Anleitung zur Absicherung/Härtung Ihre Windows 11 PC</h1>
+
+<h3>Voraussetzungen:</h3>
+
+<h4>Windows 11 Pro</h4>
+
+Moderne Hardware (persönliche Empfehlungen: AMD Ryzen 5000 PRO [hab noch keinen, bitte nicht alle kaufen ;)], versuchen Sie eine möglichst moderne CPU zu nutzen), ECC-RAM, abgeschirmte Netzwerk-Kabel (SF/FTP) [Ich hab mir diese geholt: https://www.synergy21.de/kabel-verkabelung/verkabelung-kupfer/patchkabel-s-stp-sftp-cat66a78.1/540/patchkabel-rj45-cat6a-500mhz-5m-grau-s-stp-s/ftp-mit-schloss-awg26-synergy-21?c=1898; Kann man abschließen müssen wohl sicher sein \*g\*] , Benutzen Sie kein Gehäuse mit Plastikseitenpanelen (vollständig aus Metal! :guitar:, Alternative können Sie Ihr Gehäuse in Alufolie einwickeln [mind. 20 Lagen]). Dies ist nicht optimal aber schonmal ein Anfang für ein Gehäuse. [Elektromagnetische-Abschirmung], versuchen Sie WLAN-Verbindungen zu vermeiden (oder benutzen Sie zumindest WPA3 sofern Sie WLAN nutzen möchten/müssen)
+
+
+<h4>UEFI Konfiguration:</h4>
 
 Die exakten Bezeichnung varieren je nach Motherboard/Mainboard Hersteller
 
@@ -228,7 +227,7 @@ Die exakten Bezeichnung varieren je nach Motherboard/Mainboard Hersteller
 
 WARNUNG: Wenn Sie einen Fehler bei den folgenden Schritten machen starten Sie GANZ VON VORNE (D.h. Punkt 0.)!!! Nehmen Sie sich Zeit und befolgen Sie die Anleitung, dann müssen Sie dies nur einmal machen.
 
-Windows 11 Konfiguration:
+<h3>Windows 11 Konfiguration:</h3>
 
 0. Entfernen Sie Ihr Netzwerkkabel.
 
@@ -305,7 +304,7 @@ Scrollen Sie runter
 
 <img width="960" alt="edge_flags2" src="https://user-images.githubusercontent.com/6840466/149800698-eb33a910-ad12-49e0-8ddb-2d5388c166ce.png">
 
- - Installieren Sie Ihre Erweiterungen, aber nur diejenigen welchen Sie wirklich vertrauen (NoScript! Adblocker etc. persönliche Empfehlung: Ublock origin)
+ - Installieren Sie Ihre Erweiterungen, aber nur diejenigen welchen Sie wirklich vertrauen (z.B. NoScript, Ublock origin)
 
  - Installieren Sie Microsoft Defender Application Guard Companion aus dem Windows Store und fügen Sie diesen Ihrer Startleiste hinzu.
 
@@ -356,7 +355,7 @@ Melden Sie sich ab jetzt immer mit Ihrem normalen Benutzer-Account an.
 https://github.com/allan-gounden/how-to-encrypt-your-win11-pc-with-bitlocker/
 
 
-Anmerkungen:
+<h3>Anmerkungen:</h4>
 
  - persönliche Empfehlungen sind nur persönliche Empfehlungen. Nicht mehr!
  
@@ -374,9 +373,9 @@ Anmerkungen:
 
  - Versuchen Sie ein VPN zu nutzen
 
- - Sie können weitere Schritte durchführen um Ihre Privatssphäre zu schützen, welche hier nicht gelistet sind. Diese Anleitung sollte Ihren Windows 11 PC ziemlich gut gegen Hackangriffe schützen aber Sie können noch immer getracked werden. Nichts ist 100% sicher. Die deutschen (Regierung, Industrie, Milliardäre) sollten Sie nicht mehr hacken können (außer mit teuren 0-days und diese sollten schnell gefixt werden, spielen Sie doch den Honeypot \*g\*), wahrscheinlich aber noch die NSA. Installieren Sie immer die neuesten Updates und machen Sie nicht illegales!
+ - Sie können weitere Schritte durchführen um Ihre Privatssphäre zu schützen, welche hier nicht gelistet sind. Diese Anleitung sollte Ihren Windows 11 PC ziemlich gut gegen Hackangriffe schützen aber Sie können noch immer getracked werden. Nichts ist 100% sicher. Die deutschen (Regierung, Industrie, Milliardäre) sollten Sie nicht mehr hacken können (außer mit teuren 0-days, diese sollten schnell gefixt werden und existieren nicht unbegrenzt. Spielen Sie doch den Honeypot \*g\*), wahrscheinlich aber noch die NSA. Installieren Sie immer die neuesten Updates und machen Sie nicht illegales!
 
-Man hat mich in der Vergangenheit einer Gehirnwäsche unterzogen, kein Scherz!. (Politische Parteien in Deutschland [Ja, alle großen! Sie haben sich damals mit deutschen Milliardären zusammengeschlossen weil ich Ihnen die Wahrheit erzählt habe und einige Dinge wußte welche Sie als "Geheimnisse" (kriminelle Handlungen) bezeichen, wo ich aber der Überzeugung bin dass dies alle Wissen sollten. Sie sind inkompetent, korrupt und feige. Ja ich bin wütend😡 ]) Ich muste ein paar Jahre trainieren um wieder auf die Beine zu kommen.
+Man hat mich in der Vergangenheit einer Gehirnwäsche unterzogen (kein Scherz!). (Politische Parteien in Deutschland [Ja, alle großen! Sie haben sich damals mit deutschen Milliardären zusammengeschlossen weil ich Ihnen die Wahrheit erzählt habe und einige Dinge wußte welche Sie als "Geheimnisse" (kriminelle Handlungen) bezeichen, wo ich aber der Überzeugung bin dass dies alle Wissen sollten. Sie sind inkompetent, korrupt und feige. Ja ich bin wütend😡 ]) Ich muste ein paar Jahre trainieren um wieder auf die Beine zu kommen.
 
 Schaut euch bitte meinen Facebook-Account und Posts an. Danke! https://www.facebook.com/profile.php?id=100070019901989
 
