@@ -78,7 +78,7 @@ Open Group Policy Editor
 
 <img width="902" alt="windows_update_2" src="https://user-images.githubusercontent.com/6840466/149818617-d90c3cf9-85df-48f2-8144-1c4ae22b0c42.png">
 
- - Do not install any drivers outside of Windows Update unless absolutly necessary!
+ - Do not install any drivers outside of Windows Update unless absolutly necessary! WHQL certified DCH drivers should also be ok.
 
  - Reboot PC
 
@@ -276,7 +276,7 @@ Starten Sie Ihren PC neu.
 
 <img width="902" alt="windows_update_2" src="https://user-images.githubusercontent.com/6840466/149818617-d90c3cf9-85df-48f2-8144-1c4ae22b0c42.png">
 
- - Installieren Sie keine Treiber außerhalb von Windows Update außer diese sind unbedingt notwendig!
+ - Installieren Sie keine Treiber außerhalb von Windows Update außer diese sind unbedingt notwendig! WHQL zertifizierte DCH treiber sollten auch in Ordnung sein.
 
  - Starten Sie Ihren PC neu.
 
