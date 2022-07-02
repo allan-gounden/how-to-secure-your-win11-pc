@@ -19,7 +19,7 @@ Exact naming depends on your motherboard/mainboard manufacturer
 
  - Install newest firmware/BIOS
  - Set Bus Clock to "Auto"
- - Enable Spread Sprectrum
+ - Enable Spread Sprectrum (edit: This might actually be a wrong advice! Eventualy it is better to disable it.))
  - Disable WIFI and Bluetooth if available and not required
  - Disable "Suspend to RAM"
  - Enable "Deep Sleep"
@@ -221,7 +221,7 @@ Die exakten Bezeichnung varieren je nach Motherboard/Mainboard Hersteller
 
  - Installieren Sie die neueste Firmware/BIOS
  - Setzen Sie Bus Clock auf "Auto"
- - Aktivieren Sie Spread Sprectrum
+ - Aktivieren Sie Spread Sprectrum (edit: Dies mag eine falsche Empfehlung sein. Evt. ist es besser dies zu deaktivieren)
  - Deaktivieren Sie WIFI und Bluetooth sofern vorhanden und Sie dies nicht benötigen.
  - Deaktivieren Sie "Suspend to RAM"
  - Aktivieren Sie "Deep Sleep"
