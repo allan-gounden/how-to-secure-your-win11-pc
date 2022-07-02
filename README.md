@@ -19,7 +19,7 @@ Exact naming depends on your motherboard/mainboard manufacturer
 
  - Install newest firmware/BIOS
  - Set Bus Clock to "Auto"
- - Enable Spread Sprectrum (edit: This might actually be a wrong advice! Eventualy it is better to disable it.))
+ - Enable Spread Sprectrum (edit: This might actually be a wrong advice! Eventualy it is better to disable it.)
  - Disable WIFI and Bluetooth if available and not required
  - Disable "Suspend to RAM"
  - Enable "Deep Sleep"
@@ -164,7 +164,7 @@ From now on always login with your normal user account!
 
 <h3>Annotations:</h3>
 
- - Personal recommendations are only personal recommendations.
+ - Personal recommendations are only personal recommendations. If you decide to use AMD you should use a PRO CPU because of certain security features. There are also alternatives from Intel but I do not trust them.
  
  - DO NOT OVERCLOCK YOUR PC (AMD PBO should be safe. With AGESA 1.2.0.5 you can also use a higher InfinityFabric and memory clock. Do not overclock your memory any further [the memory training should now be good enough]. But do not overdo it). Keep your PC in the specifications. Electrical engineers now what they are doing. Programmers of bioses often do not seem to know what they are doing or more reasonable it must be the marketing department! :)
 
@@ -364,7 +364,7 @@ https://github.com/allan-gounden/how-to-encrypt-your-win11-pc-with-bitlocker/
 
 <h3>Anmerkungen:</h4>
 
- - persönliche Empfehlungen sind nur persönliche Empfehlungen. Nicht mehr!
+ - persönliche Empfehlungen sind nur persönliche Empfehlungen. Wenn Sie sich für AMD entscheiden nutzen Sie eine PRO CPU, diese besitzen zusätzliche Sicherheitsfunktionen. Es gibt auch Alternativen von Intel welche diese Funktionen bieten, ich traue aber Intel nicht.
  
  - ÜBERTAKTEN SIE NICHT IHREN PC (AMD PBO sollte in Ordnung sein, mit AGESA 1.2.0.5 können Sie auch einen höheren InfinityFabric und Memory Clock nutzen. Übertakten Sie aber nicht weiter den Arbeitsspeicher [das memory training sollte mittlerweile gut sein]. Übertreiben Sie es aber nicht). Halten Sie Ihren PC innerhalb der Spezifikationen. Elektrotechniker wissen was Sie tuen. Programmierer von Biosen meistens anscheinend nicht oder wahrscheinlicher: Es ist die Schuld der Marketing-Abteilung! :)
 
