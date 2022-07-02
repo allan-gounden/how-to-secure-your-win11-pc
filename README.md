@@ -89,7 +89,8 @@ Open Group Policy Editor
 
  - Install Edge updates before opening any websites!!!
 
-Open following site in the settings menu and it should automatically update.
+Open following page in the settings menu and it should automatically update.
+WARNING: You should open this page daily! The automatic update mechanism in Edge does not work correctlly...
 
 <img width="1382" alt="edge1" src="https://user-images.githubusercontent.com/6840466/149796876-cc64066e-efa3-4f52-a319-f173f0fc6f49.png">
 
@@ -163,7 +164,7 @@ From now on always login with your normal user account!
 
 <h3>Annotations:</h3>
 
- - Personal recommendations are only personal recommendations. Nothing more!
+ - Personal recommendations are only personal recommendations.
  
  - DO NOT OVERCLOCK YOUR PC (AMD PBO should be safe. With AGESA 1.2.0.5 you can also use a higher InfinityFabric and memory clock. Do not overclock your memory any further [the memory training should now be good enough]. But do not overdo it). Keep your PC in the specifications. Electrical engineers now what they are doing. Programmers of bioses often do not seem to know what they are doing or more reasonable it must be the marketing department! :)
 
@@ -289,7 +290,7 @@ Starten Sie Ihren PC neu.
 7. Edge-Browser (persönliche Empfehlung wegen der integrierten virtualisierung in Windows. Sie können auch Windows Sandbox nutzen [nicht beschrieben in dieser Anleitung])
 
  - Installieren Sie die Updates für Edge bevor Sie eine Website öffnen!!!
-
+WARNUNG: Öffnen Sie folgende Seite täglich. Die automatische Update-Funktion in Edge funktioniert seltsamerweise nicht richtig...
 <img width="1382" alt="edge1" src="https://user-images.githubusercontent.com/6840466/149796876-cc64066e-efa3-4f52-a319-f173f0fc6f49.png">
 
  - Starten Sie Edge neu !!! (Sollten Sie eine Website vorher geöffnet haben starten sie GANZ VON VORNE)
