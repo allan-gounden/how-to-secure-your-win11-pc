@@ -166,7 +166,7 @@ From now on always login with your normal user account!
 
  - Personal recommendations are only personal recommendations. If you decide to use AMD you should use a PRO CPU because of certain security features. There are also alternatives from Intel but I do not trust them.
  
- - DO NOT OVERCLOCK YOUR PC (AMD PBO should be safe. With AGESA 1.2.0.5 you can also use a higher InfinityFabric and memory clock. Do not overclock your memory any further [the memory training should now be good enough]. But do not overdo it). Keep your PC in the specifications. Electrical engineers now what they are doing. Programmers of bioses often do not seem to know what they are doing or more reasonable it must be the marketing department! :)
+ - DO NOT OVERCLOCK YOUR PC (AMD PBO should be safe. With AGESA 1.2.0.5 you can also use a higher InfinityFabric and memory clock. Do not overclock your memory any further [the memory training should now be good enough]. But do not overdo it). Keep your PC in the specifications. Electrical engineers know what they are doing. Programmers of bioses often do not seem to know what they are doing or more reasonable it must be the marketing department! :)
 
  - DO NOT INSTALL WSL2, installed it today and just got hacked again (bash was open with debian as a distribution) :( "They" always target the developers. If you develop under Linux (I do not) use Gentoo and use the original linux kernel with your own configuration not the Gentoo fork (or check the patches)! There might be some other good alternatives out there (Alpine linux?).
 
@@ -176,7 +176,7 @@ From now on always login with your normal user account!
 
  - Try to use Windows Store (UWP) apps
 
- - Try to avoid apps outside of the Windows Store
+ - Try to use open source software whenever possible
 
  - Try to use a VPN
 
@@ -376,7 +376,7 @@ https://github.com/allan-gounden/how-to-encrypt-your-win11-pc-with-bitlocker/
 
  - Versuchen Sie Windows Store (UWP) Apps zu nutzen.
 
- - Versuchen Sie Applikationen außerhalb des Windows Store zu vermeiden.
+ - Versuchen Sie Open Source Applikationen zu nutzen sofern möglich.
 
  - Versuchen Sie ein VPN zu nutzen
 
