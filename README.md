@@ -168,7 +168,7 @@ From now on always login with your normal user account!
  
  - DO NOT OVERCLOCK YOUR PC (AMD PBO should be safe. With AGESA 1.2.0.5 you can also use a higher InfinityFabric and memory clock. Do not overclock your memory any further [the memory training should now be good enough]. But do not overdo it). Keep your PC in the specifications. Electrical engineers now what they are doing. Programmers of bioses often do not seem to know what they are doing or more reasonable it must be the marketing department! :)
 
- - DO NOT INSTALL WSL2, installed it today and just got hacked again (bash was open with debian as a distribution) :( "They" always target the developers. If you develop under Linux (I do not) use Gentoo and use the original linux kernel with your own configuration not the Gentoo fork! There might be some other good alternatives out there (Alpine linux?).
+ - DO NOT INSTALL WSL2, installed it today and just got hacked again (bash was open with debian as a distribution) :( "They" always target the developers. If you develop under Linux (I do not) use Gentoo and use the original linux kernel with your own configuration not the Gentoo fork (or check the patches)! There might be some other good alternatives out there (Alpine linux?).
 
  - Try to always use Microsoft Defender Application Guard and not the normal Edge-Browser! Unfortanetly it is not always possible and you can not set it as default yet :(
 
@@ -368,7 +368,7 @@ https://github.com/allan-gounden/how-to-encrypt-your-win11-pc-with-bitlocker/
  
  - ÜBERTAKTEN SIE NICHT IHREN PC (AMD PBO sollte in Ordnung sein, mit AGESA 1.2.0.5 können Sie auch einen höheren InfinityFabric und Memory Clock nutzen. Übertakten Sie aber nicht weiter den Arbeitsspeicher [das memory training sollte mittlerweile gut sein]. Übertreiben Sie es aber nicht). Halten Sie Ihren PC innerhalb der Spezifikationen. Elektrotechniker wissen was Sie tuen. Programmierer von Biosen meistens anscheinend nicht oder wahrscheinlicher: Es ist die Schuld der Marketing-Abteilung! :)
 
- - Installieren Sie NICHT WSL2, habe es heute installiert und wurde gerade wieder gehacked (Bash war offen mit Debian als Distribution) :( "Die" haben es immer auf die Entwickler abgesehen. Sofern Sie unter Linux entwickeln (ich tue es nicht) nutzen Sie Gentoo und nutzen Sie den original Linux Kernel und konfigurieren Sie diesen selbst, nicht den Gentoo Fork! Es gibt bestimmt auch andere gute alternativen (Alpine linux?).
+ - Installieren Sie NICHT WSL2, habe es heute installiert und wurde gerade wieder gehacked (Bash war offen mit Debian als Distribution) :( "Die" haben es immer auf die Entwickler abgesehen. Sofern Sie unter Linux entwickeln (ich tue es nicht) nutzen Sie Gentoo und nutzen Sie den original Linux Kernel und konfigurieren Sie diesen selbst, nicht den Gentoo Fork (oder prüfen Sie die Patches)! Es gibt bestimmt auch andere gute alternativen (Alpine linux?).
 
  - Versuchen Sie immer den Microsoft Defender Application Guard zu nutzen und nicht den normalen Edge-Browser! Leider ist dies nicht immer möglich und Sie können Ihn nicht als Standard-Browser setzen.
 
