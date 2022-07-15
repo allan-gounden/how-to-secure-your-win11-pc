@@ -178,7 +178,7 @@ From now on always login with your normal user account!
 
  - Try to use open source software whenever possible
 
- - Try to use a VPN
+ - Try to use a VPN (WARNING: Application Guard does not use the VPN connection in the default configuration!)
 
  - You can do additional steps for privacy concerns (not covered in this guide). This guide should make your Windows 11 PC really hard to hack but you still will be tracked! Nothing is 100% safe. The Germans (government, industry, billionaires etc.) should not be able to hack you (except with expensive 0-days. They should get fixed fast and are finite. Maybe play the honeypot \*g\*), maybe the NSA. Always install the newest updates and do not do anything illegal!
 
@@ -378,7 +378,7 @@ https://github.com/allan-gounden/how-to-encrypt-your-win11-pc-with-bitlocker/
 
  - Versuchen Sie Open Source Applikationen zu nutzen sofern möglich.
 
- - Versuchen Sie ein VPN zu nutzen
+ - Versuchen Sie ein VPN zu nutzen (ACHTUNG: In der Standardkonfiguration nutzt Application Guard NICHT die VPN-Verbindung!)
 
  - Sie können weitere Schritte durchführen um Ihre Privatssphäre zu schützen, welche hier nicht gelistet sind. Diese Anleitung sollte Ihren Windows 11 PC ziemlich gut gegen Hackangriffe schützen aber Sie können noch immer getracked werden. Nichts ist 100% sicher. Die deutschen (Regierung, Industrie, Milliardäre) sollten Sie nicht mehr hacken können (außer mit teuren 0-days, diese sollten schnell gefixt werden und existieren nicht unbegrenzt. Spielen Sie doch den Honeypot \*g\*), wahrscheinlich aber noch die NSA. Installieren Sie immer die neuesten Updates und machen Sie nicht illegales!
 
