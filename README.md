@@ -7,7 +7,7 @@ HOW TO secure your Windows 11 PC
 
 <h4>Windows 11 Pro</h4>
 
-This guide might be obsolete in the near future if Microsoft switchtes to a forced online installation! (Try to switch to Gentoo see below)<br>
+This guide might be obsolete in the near future if Microsoft switchtes to a forced online installation! You can use Rufus (https://rufus.ie/) to create a Windows install usb drive to install Windows without an online install requirement but I do not know how safe it is. (Try to switch to Gentoo see below)<br>
 Try to avoid Nvidia graphic cards as there proprietary driver source code seems to got stolen (not confirmed yet!)
 
 Modern hardware (personal recommendation: AMD Ryzen 5000 PRO [still do not own one, do not buy all please ;)], try to use at least a modern CPU), ECC-RAM, shielded network/ethernet cables (SF/FTP), do no not use a case with plastic side panels (all metal! :guitar:, you can also wrap your case with multiple layers of aluminum foil [20 layers at least]) [EM-Shielding]. This is not optimal but a start for a case. Try to avoid WIFI connections (at least use WPA3 if you need WIFI)
@@ -210,7 +210,7 @@ THE RESISTENCE WILL NEVER DIE. YOU ARE NOT ALONE.
 
 <h4>Windows 11 Pro</h4>
 
-Diese Anleitung kann in nächster Zeit obsolet sein, sofern Microsoft zu einer erzwungen Online-Installation wechseln sollte! (Versuchen Sie auf Gentoo zu wechseln, siehe unten)<br>
+Diese Anleitung kann in nächster Zeit obsolet sein, sofern Microsoft zu einer erzwungen Online-Installation wechseln sollte! Sie können Rufus (https://rufus.ie/) nutzen um sich einen Windows USB-Stick zu erstellen um die online Installation zu umgehen. Leider weiss ich nicht ob dies sicher ist.(Versuchen Sie auf Gentoo zu wechseln, siehe unten)<br>
 Versuchen Sie Nvidia Grafikkarten zu vermeiden da eventuell der Source Code zu den proprietären Treibern gestohlen wurde (noch nicht bestätigt!)
 
 Moderne Hardware (persönliche Empfehlungen: AMD Ryzen 5000 PRO [hab noch keinen, bitte nicht alle kaufen ;)], versuchen Sie eine möglichst moderne CPU zu nutzen), ECC-RAM, abgeschirmte Netzwerk-Kabel (SF/FTP) [Ich hab mir diese geholt: https://www.synergy21.de/kabel-verkabelung/verkabelung-kupfer/patchkabel-s-stp-sftp-cat66a78.1/540/patchkabel-rj45-cat6a-500mhz-5m-grau-s-stp-s/ftp-mit-schloss-awg26-synergy-21?c=1898; Kann man abschließen müssen wohl sicher sein \*g\*] , Benutzen Sie kein Gehäuse mit Plastikseitenpanelen (vollständig aus Metal! :guitar:, Alternative können Sie Ihr Gehäuse in Alufolie einwickeln [mind. 20 Lagen]). Dies ist nicht optimal aber schonmal ein Anfang für ein Gehäuse. [Elektromagnetische-Abschirmung], versuchen Sie WLAN-Verbindungen zu vermeiden (oder benutzen Sie zumindest WPA3 sofern Sie WLAN nutzen möchten/müssen)
