@@ -51,7 +51,8 @@ Reboot PC
 Open Group Policy Editor
 <img width="830" alt="Screenshot 2022-01-17 153521" src="https://user-images.githubusercontent.com/6840466/149796019-8281de6a-9c0f-450c-bc54-924415ba509a.png">
 
-4. Configure Application Guard [for a nice browsing experience, if you want more security do not enable following, but watching youtube etc. will suck :)]
+4. Search for "app & browser control" as it seems the entry has been removed from the "Windows Security" window...
+Configure Application Guard [for a nice browsing experience. If you want more security do not enable following, but watching youtube etc. will suck :)]
 
 <img width="1079" alt="install_device_guard_2_2" src="https://user-images.githubusercontent.com/6840466/149801090-3088cfa2-5b18-488c-aa4f-debd6cf4837c.png">
 
@@ -255,7 +256,8 @@ Starten Sie Ihren PC neu.
 Öffnen Sie den Gruppenrichtlinien-Editor
 <img width="830" alt="Screenshot 2022-01-17 153521" src="https://user-images.githubusercontent.com/6840466/149796019-8281de6a-9c0f-450c-bc54-924415ba509a.png">
 
-4. Konfigurieren Sie Application Guard [für eine angenehme Browser-Erfahrung, wenn Sie mehr Sicherheit haben möchten aktivieren Sie nicht folgende Einstellungen aber das betrachten von Youtube-Videos etc. wird nerven :)]
+4. Suchen Sie nach "app & browser". Die Einstellungen sind wohl aus dem "Windows Security" Fenster entfernt worden...
+Konfigurieren Sie Application Guard [für eine angenehme Browser-Erfahrung. Wenn Sie mehr Sicherheit haben möchten aktivieren Sie nicht folgende Einstellungen aber das betrachten von Youtube-Videos etc. wird nerven :)]
 
 <img width="1079" alt="install_device_guard_2_2" src="https://user-images.githubusercontent.com/6840466/149801090-3088cfa2-5b18-488c-aa4f-debd6cf4837c.png">
 
