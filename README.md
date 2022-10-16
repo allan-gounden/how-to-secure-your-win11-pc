@@ -65,6 +65,8 @@ Open Group Policy Editor
 
 6. Windows Update
 
+ - According to this article (https://arstechnica.com/information-technology/2022/10/how-a-microsoft-blunder-opened-millions-of-pcs-to-potent-malware-attacks/) you should manually enable the driver block rules as stated here: https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-driver-block-rules
+
  - Only allow downloads from Microsoft directly (in theory not required but better save than sorry)
 
 <img width="902" alt="windows_update_disable1" src="https://user-images.githubusercontent.com/6840466/149802085-1036c454-e0d5-4125-a12e-781ebb388750.png">
@@ -266,6 +268,8 @@ Starten Sie Ihren PC neu.
 <img width="902" alt="mandatory_ASL_2" src="https://user-images.githubusercontent.com/6840466/149796736-6edda4c8-b96c-466d-b60e-b51da35eaf81.png">
 
 6. Windows Update
+
+ - Nach folgendem Artikel (https://arstechnica.com/information-technology/2022/10/how-a-microsoft-blunder-opened-millions-of-pcs-to-potent-malware-attacks/) sollten Sie die "driver block rules!" manuell aktivieren: https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-driver-block-rules
 
  - Erlauben Sie nur Downloads von Microsoft direkt (theoretisch nicht notwendig)
 
